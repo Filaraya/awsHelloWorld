@@ -8,13 +8,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/ashleygwilliams/my_package.git"
+      "url": "https://github.com/Filaraya/awsHelloWorld/blob/master/package.json"
     },
     "keywords": [],
     "author": "Filmon",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/ashleygwilliams/my_package/issues"
+      "url": "https://github.com/Filaraya/awsHelloWorld.git"
     },
-    "homepage": "https://github.com/ashleygwilliams/my_package"
+    "homepage": "https://github.com/Filaraya/awsHelloWorld.git"
   }
