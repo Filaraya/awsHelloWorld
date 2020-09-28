@@ -8,7 +8,7 @@ http.createServer(function (request, response) {
    response.writeHead(200, {'Content-Type': 'text/plain'})
 
    // Send the response body as "Hello World"
-   response.end('Hello World! I am Filmon, this is my first aws message\n')
+   response.end('Hello world! I am Filmon and this is my first aws server!\n')
 }).listen(3333)
 
 // Console will print the message
